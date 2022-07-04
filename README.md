@@ -2,7 +2,7 @@
 
  🌱 I’m currently learning ...<br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    C, Java, Python, Django, Flutter, NLP(w2v, PLM)...<br>
+    C, Java, Python, Django, Web_crawler, ML, NLP...<br>
  📫 How to reach me : n0970424680@gmail.com
 
 
